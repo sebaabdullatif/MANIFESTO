@@ -1,44 +1,146 @@
 body {
-  background-color: azure;
+  background-color: rgb(0, 0, 0);
 }
 
 #first {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255, 70%);
   padding-left: 10%;
   padding-top: 0%;
   position: absolute;
-}
-#rad1 {
-  padding-top: 50%;
+  font-family: monospace;
 }
 #second {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255, 70%);
   padding-left: 10%;
   padding-top: 0%;
   position: absolute;
+  font-family: monospace;
 }
 #third {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255, 70%);
   padding-left: 40%;
   padding-top: 10%;
   position: absolute;
+  font-family: monospace;
 }
 #fourth {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255, 70%);
   padding-left: 50%;
   padding-top: 10%;
   position: absolute;
+  font-family: monospace;
 }
 #fifth {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255, 70%);
   padding-left: 10%;
   padding-top: 10%;
   position: absolute;
+  font-family: monospace;
 }
+#sixth {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 40%;
+  padding-top: 10%;
+  position: absolute;
+  font-family: monospace;
+}
+#seventh {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 80%;
+  padding-top: 40%;
+  position: absolute;
+  font-family: monospace;
+}
+#eighth {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 45%;
+  padding-top: 50%;
+  position: absolute;
+  font-family: monospace;
+}
+#nineth {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 70%;
+  padding-top: 30%;
+  position: absolute;
+  font-family: monospace;
+}
+#ten {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 30%;
+  padding-top: 60%;
+  position: absolute;
+  font-family: monospace;
+}
+#eleven {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 70%;
+  padding-top: 70%;
+  position: absolute;
+  font-family: monospace;
+}
+#twelve {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 60%;
+  padding-top: 30%;
+  position: absolute;
+  font-family: monospace;
+}
+#thirteen {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 40%;
+  padding-top: 20%;
+  position: absolute;
+  font-family: monospace;
+}
+#fourteen {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 35%;
+  padding-top: 60%;
+  position: absolute;
+  font-family: monospace;
+}
+#fifteen {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 10%;
+  padding-top: 80%;
+  position: absolute;
+  font-family: monospace;
+}
+#sixteen {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 0%;
+  padding-top: 70%;
+  position: absolute;
+  font-family: monospace;
+}
+#seventeen {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 10%;
+  padding-top: 60%;
+  position: absolute;
+  font-family: monospace;
+}
+#eighteen {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 50%;
+  padding-top: 50%;
+  position: absolute;
+  font-family: monospace;
+}
+#label {
+  color: rgb(255, 255, 255, 70%);
+  padding-left: 50%;
+  padding-top: 50%;
+  position: absolute;
+  font-family: monospace;
+  font-size: x-large;
+}
+
 input[type="radio"] {
   position: relative;
-  padding-top: 30%;
-  padding-right: 10%;
+  padding-top: 50%;
+  padding-right: 70%;
   width: 8px;
   height: 8px;
 }
